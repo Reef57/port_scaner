@@ -1,2 +1,2 @@
-# port_scaner
+# port_scanner
 [C] Simple port scanner
